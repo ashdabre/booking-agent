@@ -1,0 +1,10 @@
+myenv/
+# Ignore OAuth credentials
+credentials.json
+
+# Ignore environment variable files
+.env
+
+# Ignore token store
+token.pickle
+creds.json
